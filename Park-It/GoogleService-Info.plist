@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>95091139321-1qdk2use313u8cvv5u0njn8dudkrjpe2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.95091139321-1qdk2use313u8cvv5u0njn8dudkrjpe2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQfc9e5SoI8SfFywCjlYuSLx_0k8r9VhE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>95091139321</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ksk.Park-It</string>
+	<key>PROJECT_ID</key>
+	<string>park-it-e5445</string>
+	<key>STORAGE_BUCKET</key>
+	<string>park-it-e5445.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:95091139321:ios:dd7d32184c4292e4</string>
+	<key>DATABASE_URL</key>
+	<string>https://park-it-e5445.firebaseio.com</string>
+</dict>
+</plist>
